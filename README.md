@@ -1,75 +1,87 @@
-# Hi, I'm Manasi Kalbhor 👋
+<h1 align="center">Hi 👋, I'm Manasi Kalbhor</h1>
 
-Final-year Software Engineering student interested in **Python, AI/ML, Generative AI, RAG, and Backend Development**.
+<h3 align="center">Final-Year Software Engineering Student | Python | AI/ML | GenAI | Data Engineering</h3>
 
-Currently building practical projects in **AI applications, data pipelines, APIs, and machine learning** while preparing for Software Developer, Python Backend, and AI/ML roles.
+<p align="center">
+Building practical software, AI/ML applications, RAG systems, and data pipelines with Python and SQL.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 👩‍💻 About Me
 
-### 🤖 DocMind – Production-Grade RAG Document Intelligence System
+- 🎓 Final-year Software Engineering student
+- 🤖 Interested in AI/ML, Generative AI and Backend Development
+- 🐍 Building projects with Python, SQL and modern AI technologies
+- 📚 Currently strengthening DSA, Machine Learning and GenAI skills
+- 🚀 Looking for Software Developer, Python Backend and AI/ML opportunities
 
-A document intelligence system that allows users to upload PDF/DOCX documents and ask questions grounded in their documents.
+---
 
-Built with a production-oriented RAG pipeline featuring **hybrid dense + sparse retrieval, BM25, cross-encoder reranking, query rewriting, RAGAS evaluation, and hallucination guardrails**.
+### 🚀 Featured Projects
 
-**Tech Stack:**  
-Python · FastAPI · ChromaDB · Groq · Llama 3.3 · Ollama Embeddings · BM25 · RAGAS · Pytest · GitHub Actions
+#### 🤖 DocMind – RAG-Based Document Intelligence System
 
-**Highlights:**
+A production-oriented document intelligence system that allows users to ask questions about uploaded documents using Retrieval-Augmented Generation.
+
+**Key Features:**
 - Hybrid dense + sparse retrieval
+- ChromaDB vector search
+- BM25 retrieval
 - Cross-encoder reranking
 - Query rewriting
 - RAGAS-based evaluation
-- Hallucination detection and guardrails
-- Multi-session document retrieval
+- Hallucination guardrails
 - Automated testing and CI
-- 62/62 tests passing
 
-🔗 [View Project](https://github.com/ManasiKalbhor/RAG)
+**Tech:** Python · FastAPI · ChromaDB · Groq · Llama 3.3 · Ollama · BM25 · RAGAS · Pytest
+
+🔗 [View Project](https://github.com/ManasiKalbhor/RAG.git)
 
 ---
 
-### 🌦️ Weather ETL Pipeline
+#### 🌦️ Weather ETL Pipeline
 
-A Python-based ETL pipeline that fetches hourly weather data for multiple Indian cities from the Open-Meteo API, validates and transforms the data using Pandas, and loads it into SQLite.
+A Python ETL pipeline that extracts hourly weather data from a REST API, validates and transforms it using Pandas, and loads it into SQLite with duplicate-safe upserts.
 
-**Tech Stack:**  
-Python · REST API · Requests · Pandas · SQL · SQLite · GitHub Actions
-
-**Key Concepts:**
-- API integration
-- Data extraction
-- Data cleaning and validation
-- Data transformation
-- Database loading
-- Duplicate-safe data handling
+**Key Features:**
+- REST API integration
+- Data extraction and transformation
+- Data validation
+- Pandas-based processing
+- SQLite database loading
+- Error handling
 - Automated pipeline execution
 
-🔗 [View Project](https://github.com/ManasiKalbhor/weather-etl-pipeline)
+**Tech:** Python · REST API · Requests · Pandas · SQL · SQLite · GitHub Actions
+
+🔗 [View Project](https://github.com/ManasiKalbhor/weather-etl-pipeline.git)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
+**Languages**
+
 Python · SQL · C++ · JavaScript
 
-### AI / ML
+**AI / ML**
+
 Machine Learning · NLP · RAG · Generative AI · Embeddings · Vector Search
 
-### Backend & Data
+**Backend & Data**
+
 FastAPI · REST APIs · Pandas · SQLite · PostgreSQL
 
-### Tools
+**Tools**
+
 Git · GitHub · GitHub Actions · VS Code · Docker
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
-- Data Structures & Algorithms with Python
+- Data Structures & Algorithms
 - Machine Learning
 - Generative AI & RAG
 - Backend Development
@@ -78,14 +90,57 @@ Git · GitHub · GitHub Actions · VS Code · Docker
 
 ---
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
-Building practical, production-oriented projects and strengthening my problem-solving and software engineering skills for **Software Developer, Python Backend, and AI/ML roles**.
+Building practical and production-oriented projects while strengthening my problem-solving, software engineering, and AI/ML skills.
 
 ---
 
-## 🔗 Connect With Me
+### 🤝 Open To
 
-📌 [LinkedIn](https://www.linkedin.com/in/manasi-kalbhor-2255602a3)
+- Software Developer roles
+- Python Backend roles
+- AI/ML opportunities
+- GenAI projects and internships
+- Open-source collaboration
 
-📧 [Email](mailto:manasikalbhor9999@gmail.com)
+---
+
+### 📫 Connect With Me
+
+📧 Email: manasikalbhor9999@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/manasi-kalbhor-2255602a3)
+
+🐙 [GitHub](https://github.com/ManasiKalbhor)
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ManasiKalbhor&show_icons=true&theme=default&count_private=true" alt="Manasi's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiKalbhor&theme=default" alt="Manasi's GitHub streak" height="165"/>
+</p>
