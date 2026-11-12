@@ -75,7 +75,7 @@ FastAPI · REST APIs · Pandas · SQLite · PostgreSQL
 
 **Tools**
 
-Git · GitHub · GitHub Actions · VS Code · Docker
+Git · GitHub · GitHub Actions · VS Code · 
 
 ---
 
